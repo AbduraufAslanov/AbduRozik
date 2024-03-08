@@ -1,0 +1,16 @@
+.Logo{
+    padding: 42px 35px;
+    display: inline;
+}
+.ul{
+    color:#14203E;
+    display:flex;
+    flex-direction: row;
+    gap: 56px;
+    padding-top: 0;
+    position: relative;
+    top: 0;
+}
+.menu-items{
+    font-size: 18px;
+}
